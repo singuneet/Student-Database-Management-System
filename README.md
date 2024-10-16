@@ -18,5 +18,5 @@ This is a simple **Student Database Management System** written in C++ that allo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Student-Database-Management.git
+   git clone https://github.com/singuneet/Student-Database-Management.git
 
